@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sukrit Kumar
-- 👀 I’m interested in Machine Learning,Software Development and Electronics
-- 🌱 I’m currently exploring machine learning, GO
-- 📫 How to reach me ...
-- C++,Python,Go,Java
+- 👀 I’m interested in Software Development, Machine Learning and Data Science 
+- 🌱 I’m currently exploring machine learning, Go and React
+- 📫 How to reach me ksukrit2001 (at) gmail (dot) com
+- 🧑‍💻 Technologies used : C++,Python,Go,Java
 
 <!---
 ksukrit/ksukrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
