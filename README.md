@@ -8,7 +8,7 @@
 
 ## Connect with me :
 - [LinkedIn](https://www.linkedin.com/in/sukritkumar03/)
-- [Email](emailto:ksukrit2001@gmail.com)
+- [Email](mailto:ksukrit2001@gmail.com)
 
 <!---
 ksukrit/ksukrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
